@@ -1,7 +1,7 @@
-# Compañeros de clase:
+# Compañeras de clase:
 
 
-|## NOMBRE | ##GITHUB | 
-| ------   |------    |
+| NOMBRE   |  GITHUB  | 
+| ------   |  ------  |
 |  Lara    | Laru24   |
 |Carolina  | CarolM2  | 
